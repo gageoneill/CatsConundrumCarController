@@ -1,3 +1,8 @@
+# @Author Gage O'Neill
+# Open Source RC Car control software developed as a part of EGEN 310 - Multidisciplinary Design
+# Montana State University
+# Fall 2019
+
 # Imports
 # Adafruit CircuitPython MotorKit Library - https://github.com/adafruit/circuitpython
 from adafruit_motorkit import MotorKit
